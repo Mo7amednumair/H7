@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://heaven7.cf/index.html</loc>
+    <lastmod>2020-02-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://heaven7.cf/images/72594035_909371316087547_8868404208294952960_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://heaven7.cf/images/e10123.gif</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://heaven7.cf/images/interior-design-png-14.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://heaven7.cf/images/lounge-512.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://heaven7.cf/images/pnggurucom.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://heaven7.cf/images/circle-icons-securitysvg.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://heaven7.cf/assets/solar2020-400.webp</loc>
+    <lastmod>2020-02-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>
